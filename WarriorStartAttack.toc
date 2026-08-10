@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: Warrior Start Attack
+## Notes: Starts melee auto-attack when configured Warrior attacks are used.
+## Author: Local
+## Version: 1.0.0
+
+WarriorStartAttack.lua
