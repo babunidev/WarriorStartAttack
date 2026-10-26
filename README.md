@@ -23,3 +23,11 @@ The addon works across client languages. Vanilla 1.12.1 does **not** provide add
 The icon whitelist is near the top of `WarriorStartAttack.lua`. Add an ability's internal icon path if you want it to start attack too.
 
 The addon deliberately uses a whitelist, so defensive abilities and non-Warrior spells do not start combat.
+
+## Development documentation
+
+- [Concept](CONCEPT.md) · [Roadmap](ROADMAP.md) · [Changelog](CHANGELOG.md)
+- [Architecture](docs/ARCHITECTURE.md) · [Design evidence](docs/DECISIONS.md) · [Development journal](docs/DEVLOG.md)
+- [AI collaborator rules](AGENTS.md)
+
+The journal distinguishes source-based reconstruction, author direction, AI assistance, and independently verified behavior.
