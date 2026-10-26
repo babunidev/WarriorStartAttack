@@ -1,5 +1,7 @@
 # Warrior Start Attack
 
+**Author:** Babuni.dev
+
 A minimal World of Warcraft **1.12.1 (Vanilla)** addon for Warriors. When you use a configured offensive ability, it starts melee auto-attack if you have a living hostile target.
 
 This happens when you attempt the action, before the client checks its rage cost. For example, clicking `Heroic Strike` with insufficient rage will still start normal melee swings. Repeated presses do not stop auto-attack. `Intimidating Shout` is the exception: it explicitly stops auto-attack.
