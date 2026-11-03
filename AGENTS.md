@@ -26,7 +26,7 @@ Pay special attention to:
 
 ## Collaboration and implementation record
 
-Record human direction and its rationale, AI alternatives/proposals, iteration/disagreements, explicit creator acceptance or rejection, source/document paths and commit, and **what was actually tested**. Distinguish source analysis from successful in-game execution.
+Record human direction and its rationale, AI alternatives/proposals, iteration/disagreements, explicit creative acceptance or rejection, source/document paths and commit, and **what was actually tested**. Distinguish source analysis from successful in-game execution.
 
 For material changes, update relevant README, CONCEPT, ROADMAP, CHANGELOG, AGENTS, DEVLOG, DECISIONS, DESIGN, CONTENT, ARCHITECTURE and AI_COLLABORATION entries. Do not publish private conversations, credentials or unrelated player information.
 
