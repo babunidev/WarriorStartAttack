@@ -1,13 +1,13 @@
 # WarriorStartAttack — instructions for AI and human developers
 
-**Creative author and decision-maker:** Babuni.dev.  
+**Human creative and decision-maker:** Babuni.  
 **Purpose:** Minimal Warrior combat-input quality-of-life in Vanilla WoW 1.12.1.
 
 ## Respect the design
 
 - A whitelisted offensive **attempt**, not a successful cast, can start white melee auto-attacks against a living hostile target.
 - Repeated presses should **not turn auto-attack off**. `AttackTarget()` is a toggle; avoid blindly calling it.
-- Intimidating Shout is an intentional stop-attack exception. Preserve that idea until the creator approves a behavior change.
+- Intimidating Shout is an intentional stop-attack exception. Preserve that idea until the creative approves a behavior change.
 - Use client icon paths as existing language-independent recognition, but note they aren't unique spell IDs.
 - Keep the product lightweight; do not add rotation automation, targeting logic, GUI or persisted settings without explicit direction.
 - No current `LICENSE` file exists; do not invent a license grant.
@@ -31,3 +31,7 @@ Record human direction and its rationale, AI alternatives/proposals, iteration/d
 For material changes, update relevant README, CONCEPT, ROADMAP, CHANGELOG, AGENTS, DEVLOG, DECISIONS, DESIGN, CONTENT, ARCHITECTURE and AI_COLLABORATION entries. Do not publish private conversations, credentials or unrelated player information.
 
 The October 26, 2026 audit is **documentation only**; no gameplay code is authorized for change in this task.
+
+## Repository-local documentation standard
+
+Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
