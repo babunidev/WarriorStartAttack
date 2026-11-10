@@ -1,6 +1,6 @@
-# WarriorStartAttack — creative and technical development journal
+# WarriorStartAttack — development journal
 
-**Creator and creative director:** Babuni.dev  
+**Creative:** Babuni  
 **Prepared:** October 26, 2026 from committed source, README, manifest and dated Git patches. This is a **retrospective reconstruction**, not a transcript of the creator's conversations.
 
 ## A practical frustration becomes a small interface idea
