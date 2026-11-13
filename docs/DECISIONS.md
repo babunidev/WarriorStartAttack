@@ -34,3 +34,7 @@ Using spell cast success rather than action intent would produce different behav
 6. Which client variants/languages are supported **after** actual testing?
 
 These are pending. The October 26 documentation pass proposed **no code change** and did not infer approval of any alternative.
+
+## 2026-11-13 — Licensing decision
+
+To make the reuse terms explicit, I approved MIT for original addon software. This applies only to material for which the relevant rights can be granted; third-party contributors keep their own credits and licenses. AI assistance committed the license notice and updated project-facing documentation. This was a legal/documentation change, not a runtime feature or test.
