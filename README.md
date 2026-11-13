@@ -25,7 +25,7 @@ World of Warcraft/
 
 Copy both files into that folder, restart WoW or reload the UI, and enable **Warrior Start Attack** in the addon list. The source prints `Warrior Start Attack loaded.` in chat when the file executes.
 
-The addon has **no slash commands, options panel, SavedVariables, or other configuration UI**. You configure it by editing the icon tables near the start of the Lua file. The repository also has **no committed LICENSE file**; do not assume an open-source license from the presence of public code.
+The addon has **no slash commands, options panel, SavedVariables, or other configuration UI**. You configure it by editing the icon tables near the start of the Lua file. The original software is now licensed under [MIT](LICENSE) following Babuni's 13 November 2026 decision.
 
 ## How it behaves
 
