@@ -48,3 +48,7 @@ Those commits improved attribution and discoverability without changing the orig
 Does insufficient-rage Heroic Strike really start melee auto-attacks on the creator's exact client? Are repeated presses safe without a visible Attack button? Does Intimidating Shout stop reliably? What happens on a non-Warrior or when icons overlap? These questions define the next meaningful verification milestone.
 
 The site's portfolio can eventually tell both halves: why an apparently tiny Warrior quality-of-life idea was worth building, and what it took to work within the old client while respecting the creator's intent and the actual testing limits.
+
+## 2026-11-13 — Giving the repository clear permissions
+
+Public source alone did not explain what others could reuse, so I approved MIT for original addon code. AI assistance added the license and brought the project notes into agreement, without changing how the application runs. Other people's content retains its own terms.
