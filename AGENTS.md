@@ -10,7 +10,7 @@
 - Intimidating Shout is an intentional stop-attack exception. Preserve that idea until the creative approves a behavior change.
 - Use client icon paths as existing language-independent recognition, but note they aren't unique spell IDs.
 - Keep the product lightweight; do not add rotation automation, targeting logic, GUI or persisted settings without explicit direction.
-- No current `LICENSE` file exists; do not invent a license grant.
+- Original software is MIT-licensed under `LICENSE` by Babuni's explicit decision of 13 November 2026. Preserve external rights.
 
 ## Source review before editing
 
