@@ -33,3 +33,8 @@ The present pass expands that foundation. Runtime files remain at the post-credi
 ## Source of evidence
 
 The current source, TOC, README and Git patches establish functionality **as written**. They do not establish compatibility with a particular custom server, actual localized-client results or original conversational attribution.
+
+## 2026-11-13 — License and rights
+
+- Established MIT for original addon software and updated repository documentation to explain the permission boundary.
+- Preserved third-party authorship and external assets' separate terms. No gameplay or runtime verification is claimed.
