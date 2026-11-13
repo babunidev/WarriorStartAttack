@@ -1,5 +1,7 @@
 # WarriorStartAttack — human–AI collaboration and provenance
 
+Follow [the documentation standard](DOCUMENTATION.md) for first-person author voice throughout project documentation, factual changelogs, and naming the AI tool and verified model for each contribution.
+
 **Human creator and decision-maker:** Babuni.dev.
 
 ## Respect what the record does and does not say
